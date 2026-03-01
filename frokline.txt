@@ -1,4 +1,4 @@
 ini hanya pembelajaran 
-- saya akan belajar tentang database 
 - saya akan belajar tentang web
 - saaya juga akan belajar tentang bisnis
+saya akan belajar tentang database
